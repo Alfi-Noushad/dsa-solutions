@@ -34,9 +34,6 @@ print(a)
 
 
 
-
-
-
 '''
 
 class Solution(object):
